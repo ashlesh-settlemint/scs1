@@ -1,0 +1,14 @@
+{
+  "output": "generated/solidity-supplychain.",
+  "chain": "localhost",
+  "datasources": [
+    {
+      "name": "SupplyChainFactory",
+      "address": "0x0A39CaFAB6dedfa14AdB0e3E79410D76fe11d687",
+      "startBlock": 6,
+      "module": [
+        "accesscontrol"
+      ]
+    }
+  ]
+}
